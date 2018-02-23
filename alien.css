@@ -1,0 +1,16 @@
+table {
+    border: 1px solid black;
+}
+thead{
+	background-color:tomato;
+	font-weight: bold;
+	color: rgb(255,255,255);
+}
+tbody{
+	background-color:DodgerBlue;
+	color: rgb(255,255,255);
+}
+h1{
+	background-color:MediumSeaGreen;
+	color: rgb(255,255,255);
+}
